@@ -9037,7 +9037,7 @@ const wn = Du.exports.jsx,
         Ql('div', {
           children: [
             wn('img', {
-              src: './react-vite-project/dist/vite.svg',
+              src: 'https://vitejs.dev/logo-with-shadow.png',
               className: 'logo',
               alt: 'Vite logo',
             }),
