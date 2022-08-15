@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className="App">
       <div>
-        <img src="/react-vite-project/vite.svg" className="logo" alt="Vite logo" />
+        <img src="https://vitejs.dev/logo-with-shadow.png" className="logo" alt="Vite logo" />
         <a href="https://github.com/darciovilela" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/9962604?v=4" className="logo darcio" alt="darcio" />
         </a>
